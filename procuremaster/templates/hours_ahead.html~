@@ -1,0 +1,3 @@
+<html>
+	<body>In {{ hours }} hour(s), it will be {{ time_ahead }} From Template</body>
+</html>
